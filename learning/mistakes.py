@@ -3,8 +3,8 @@ def joke():
     This is called a docstring. It explains
     exactly what the function does.
     '''
-    return ('Getting a PhD is simple')
-
+    
+    return ('Getting a PhD is a piece of cake')
 
 def add(a, b):
     '''
